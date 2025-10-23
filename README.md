@@ -88,6 +88,7 @@ Ahora se muestra la corrida de la regla 30 🥵
 <img width="820" height="554" alt="Image" src="https://github.com/user-attachments/assets/3589dd38-5dd0-41b8-a68b-24a279b611fd" />
 
 Ahora se muestra la corrida de la regla 90 🥵
+<img width="824" height="546" alt="Image" src="https://github.com/user-attachments/assets/28b427c9-ac49-4dce-9fde-2ba09efec2ad" />
 
 🎨 Diseño visual
 Tema oscuro-azulado consistente en todos los módulos.
