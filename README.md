@@ -54,9 +54,9 @@ Ejecuta este bash para instalar la libreria correspondiente
 2. Ejecutar el menu principal:
     python MenuCalculadoras.py
 3. Desde la ventana principal podrás abrir cada módulo:
-  Botones 1–3: Algoritmos pseudoaleatorios
-  Botones 4–6: Reglas de autómatas celulares
-  Botones 7–15: Distribuciones estadísticas
+    Botones 1–3: Algoritmos pseudoaleatorios
+    Botones 4–6: Reglas de autómatas celulares
+    Botones 7–15: Distribuciones estadísticas
 Cada módulo tiene su propia interfaz para ingresar parámetros, generar números o simulaciones y visualizar resultados (tabla y/o histograma).
 
 🎨 Funcionalidades principales
@@ -78,4 +78,21 @@ En todas las distribuciones:
 - Se puede visualizar un histograma de barras interactivo.
 
 📷 Capturas de pantalla
+A continuaicion se presenta una corrida 🥵 del juego de la vida
 <img width="902" height="752" alt="Image" src="https://github.com/user-attachments/assets/42e2f55e-de3a-4a77-b414-788128119769" />
+
+Ahora con sus datos correspondientes
+<img width="896" height="747" alt="Image" src="https://github.com/user-attachments/assets/7d8c65c5-9f86-4fd2-9335-75f28287491d" />
+
+Ahora se muestra la corrida de la regla 30 🥵
+<img width="820" height="554" alt="Image" src="https://github.com/user-attachments/assets/3589dd38-5dd0-41b8-a68b-24a279b611fd" />
+
+Ahora se muestra la corrida de la regla 90 🥵
+
+🎨 Diseño visual
+Tema oscuro-azulado consistente en todos los módulos.
+Tablas y botones con alto contraste para fácil lectura.
+Uso de ttk.Style y colores personalizados para la interfaz profesional.
+
+📝 Licencia
+Libre para uso académico, personal y profesional, ordenada por su majestad el rey Sol xd.
