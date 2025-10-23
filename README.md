@@ -78,3 +78,4 @@ En todas las distribuciones:
 - Se puede visualizar un histograma de barras interactivo.
 
 📷 Capturas de pantalla
+<img width="902" height="752" alt="Image" src="https://github.com/user-attachments/assets/42e2f55e-de3a-4a77-b414-788128119769" />
